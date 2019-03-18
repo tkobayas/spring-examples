@@ -1,0 +1,13 @@
+target/
+.settings/
+.classpath
+.project
+*~
+*.tlog
+tmp.log
+.tern-project
+.metadata
+.recommenders/
+bin/
+jBPM64Ex013_eventTypes_deadlock_mysql/src/main/java/com/sample/Tmp.java
+
